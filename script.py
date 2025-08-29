@@ -294,6 +294,6 @@ def run_test():
         driver = None
         print("🧹 Browser closed")
 
-# ------------------ Run ------------------
+# ------------------ Run ---------------
 if __name__ == "__main__":
     run_test()
